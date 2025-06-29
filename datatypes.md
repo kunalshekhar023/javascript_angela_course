@@ -13,5 +13,11 @@ examples
 ```
 typeof(123)
 # output --> 'number'
+
+typeof("Angela")
+# 'string'
+
+typeof(true)
+# 'boolean'
 ```
 
