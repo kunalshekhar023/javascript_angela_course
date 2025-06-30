@@ -29,3 +29,8 @@ name.slice(0,1) #upper limit is not inclusive
 'k'
 ```
 
+- toUpperCase()
+
+turn all the string characters to uppercase
+
+there are many more methods that can be used with strings in javascript to make our life easier.
